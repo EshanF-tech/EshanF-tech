@@ -12,9 +12,6 @@
   - Tableau
   - R
 
-### 💼 Looking to Collaborate
-- **Projects:** Data analysis, particularly focused on financial reports of FAANG companies.
-
 ### 📫 Contact Me
 - **Email:** eshanfar@outlook.com
 
